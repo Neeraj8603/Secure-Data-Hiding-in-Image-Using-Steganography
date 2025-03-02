@@ -50,14 +50,6 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
  Support for   multiple image formats   (JPG, BMP, etc.)  
  Implementation of   AES encryption   for extra security  
 
- ## Screenshots
-
-### Encryption Process
-![Final_Encryption_Output](Final_Encryption_Output.png)
-
-### Decryption Process
-![Final_Decryption_Output](Final_Decryption_Output.png)
-
 
 ## GitHub Repository
 (https://github.com/Neeraj8603/Secure-Data-Hiding-in-Image-Using-Steganography)
