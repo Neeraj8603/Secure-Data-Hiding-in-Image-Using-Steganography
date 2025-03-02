@@ -53,10 +53,10 @@ This project provides a secure and user-friendly way to encrypt and decrypt mess
  ## Screenshots
 
 ### Encryption Process
-![Final_Encryption_Output](Output/Final_Encryption_Output.png)
+![Final_Encryption_Output](Final_Encryption_Output.png)
 
 ### Decryption Process
-![Final_Decryption_Output](Output/Final_Decryption_Output.png)
+![Final_Decryption_Output](Final_Decryption_Output.png)
 
 
 ## GitHub Repository
